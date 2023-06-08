@@ -77,8 +77,8 @@ dependencies {
     implementation 'com.google.firebase:firebase-crashlytics-ktx'
     implementation 'com.google.firebase:firebase-analytics-ktx'
 
-    //Apero lib
-    implementation 'apero-inhouse:apero-ads:1.0.6-alpha10'
+//Apero lib
+    implementation 'apero-inhouse:apero-ads:1.0.6-alpha05'
 
 
 //firebase
